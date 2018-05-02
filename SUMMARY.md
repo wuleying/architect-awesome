@@ -4,8 +4,8 @@
 
 * [数据结构](chapter/1/README.md)
     * [队列](chapter/1/1.md)
-        * [java队列——queue详细分析](chapter/snapshot/1.1/1.md)
-        * [LinkedList、ConcurrentLinkedQueue、LinkedBlockingQueue对比分析](chapter/snapshot/1.1/2.md)
+        * [java队列——queue详细分析](snapshot/1.1/1.md)
+        * [LinkedList、ConcurrentLinkedQueue、LinkedBlockingQueue对比分析](snapshot/1.1/2.md)
     * [集合](chapter/1/2.md)
     * [链表、数组](chapter/1/3.md)
     * [字典、关联数组](chapter/1/4.md)
